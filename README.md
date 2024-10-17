@@ -7,6 +7,14 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&width=535&lines=Welcome+to+my+GitHub+Profile+!+👋;Web+Developer+👨‍💻;Data+Scientist+🧑‍🔬" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+<p align="center">
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="Coding GIF" width="400"/>
 </p>
 

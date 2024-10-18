@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #f1f1f1;">Hi 👋, I'm Keshav Maheshwari</h1>
+<h1 align="center" style="color: #f1f1f1;">Hi <img width="40" src="hand.gif">, I'm Keshav Maheshwari <img width="40" src="laptop.gif"></h1>
 
 <p align="center">
     <strong>🎓 Degree:</strong> Computer Science | 

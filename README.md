@@ -6,6 +6,8 @@
     <strong>🔍 Interests:</strong> Tech Blogs & Libraries
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&center=true&width=535&lines=Welcome+to+my+Github+Profile+!+👋;Web+Developer+👨‍💻;Data+Scientist+🧑‍🔬" alt="Typing SVG" />
